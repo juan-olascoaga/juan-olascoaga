@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hola, soy Juan Cruz 👋
+
+Soy un estudiante de segundo año de la carrera de Licenciatura en Sistemas, dispuesto a seguir formándose académicamente, fortalecer sus conocimientos actuales, y con miras de ejercer profesionalmente en el área TI.
+
+- 🎓 Estudio en la Universidad de la ORT, tercer semestre.
+- 🌐 En paralelo estudio curso virtual de Desarrollo Web. 
+- 📚 Cursando materias de Fundamentos de ingeniería de software, Fundamentos de sistemas de información, y Marketing y productos digitales.
+- 🎹 En mi tiempo libre me gusta tocar el teclado, leer, y ver anime.
+
+
 
 <!--
 **juan-olascoaga/juan-olascoaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
